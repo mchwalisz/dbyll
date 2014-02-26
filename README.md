@@ -1,7 +1,9 @@
-dbyll
-=====
+twins-theme
+===========
 
-2 column stylish theme for jekyll-boostrap-3
+2 column stylish theme for jekyll-boostrap-3 for twins.io
+
+It is based on [dbyll](http://jekyllbootstrap3.tk/dbyll/) theme.
 
 INSTALL
 =======
@@ -9,7 +11,7 @@ INSTALL
 Inside jekyll-bootstrap root directory, just run
 <pre>
 <code>
-$ rake theme:install git="https://github.com/jekyll-bs3/dbyll"
+$ rake theme:install git="https://github.com/mchwalisz/twins-theme.git"
 </code>
 </pre>
 

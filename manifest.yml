@@ -1,7 +1,11 @@
 ---
-name : "dbyll"
-website :  "http://dbtek.gihub.io/dbyll"
+name : "twins-theme"
+website :  "https://github.com/mchwalisz/twins.io"
 description :  "2 Column stylish theme for jekyll-bootstrap-3."
+author:
+  name : "Mikolaj Chwalisz"
+  email : "chwalisz@tkn.tu-berlin.de"
+  website : "http://www.tkn.tu-berlin.de/"
 author:
   name : "Ismail Demirbilek"
   email : "ce.demirbilek@gmail.com"
